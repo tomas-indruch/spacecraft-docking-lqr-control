@@ -1,0 +1,16 @@
+# MATLAB & Simulink temporary / generated files
+slprj/
+*_rtw/
+*.slxc
+*.autosave
+*.asv
+*.m~
+*.mex*
+
+# Compiled executables
+*.exe
+robot_multibody
+
+# OS generated
+Thumbs.db
+.DS_Store
